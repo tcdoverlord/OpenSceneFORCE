@@ -37,6 +37,7 @@ Whether you're using OpenSceneFORCE or contributing to its development, the foll
 | [Execution Pipeline](engineering/execution_pipeline.md) | End-to-end execution flow for backup, restore, repair, update, and Safe Mode operations. |
 | [State Machine](engineering/state_machine.md) | Runtime states, transitions, validation gates, and execution lifecycle. |
 | [Coding Standards](engineering/coding_standards.md) | Project conventions, naming standards, logging requirements, and development guidelines. |
+| [Bootstrapper Setup](docs/05_BOOTSTRAPPER.md) | One-command environment bootstrap system (setup.ps1). Automates venv creation, dependency install, and project initialization for instant developer onboarding. |
 
 ------------------------------------------------------------------------
 

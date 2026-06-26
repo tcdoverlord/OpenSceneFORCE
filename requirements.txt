@@ -1,3 +1,6 @@
-PySide6
-psutil
-requests
+PySide6>=6.11,<7.0
+psutil>=7.2,<8.0
+requests>=2.34,<3.0
+GitPython>=3.1,<4.0
+python-dotenv>=1.0,<2.0
+pywin32>=306; platform_system == "Windows"
