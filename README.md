@@ -38,6 +38,7 @@ Whether you're using OpenSceneFORCE or contributing to its development, the foll
 | [State Machine](engineering/state_machine.md) | Runtime states, transitions, validation gates, and execution lifecycle. |
 | [Coding Standards](engineering/coding_standards.md) | Project conventions, naming standards, logging requirements, and development guidelines. |
 | [Bootstrapper Setup](docs/05_BOOTSTRAPPER.md) | One-command environment bootstrap system (setup.ps1). Automates venv creation, dependency install, and project initialization for instant developer onboarding. |
+| [OSF DEV Launcher](docs/06_OSF_DEV_LAUNCHER.md) | A simple command-based tool that starts your development project automatically. It lets you pick a project, moves into the correct folder, and turns on the Python environment so you can start coding immediately without typing setup commands manually. |
 
 ------------------------------------------------------------------------
 
