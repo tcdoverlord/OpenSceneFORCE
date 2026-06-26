@@ -172,7 +172,7 @@ V1 — Single Project Launcher
 
 ## 📘 Related Documentation
 
-- [Onboarding Flow](docs/07_OSF_ONBOARDING.md)
+- [Onboarding Flow](07_OSF_ONBOARDING.md)
 
 ---
 
